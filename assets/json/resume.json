@@ -1,0 +1,200 @@
+{
+    "basics": {
+        "name": "K Madhava Krishna",
+        "label": "Professor & Researcher in Robotics",
+        "image": "https://www.iiit.ac.in/wp-content/uploads/2022/12/MadhavaKrishan-300x200.jpg",
+        "email": "mkrishna@iiit.ac.in",
+        "url": "https://www.iiit.ac.in/faculty/k-madhava-krishna/",
+        "summary": "Professor & Head at the Robotics Research Center, IIIT Hyderabad. Researcher in Mobile Robotics, Vision, and AI.",
+        "location": {
+            "address": "Robotics Research Center, Himalya D-Block, Prof. CR Rao Rd, Gachchibowli",
+            "postalCode": "500032",
+            "city": "Hyderabad",
+            "countryCode": "IN",
+            "region": "Telangana"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "madhava-krishna",
+                "url": "https://in.linkedin.com/in/madhava-krishna-49371313"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "IIIT Hyderabad",
+            "position": "Professor & Head, Robotics Research Center",
+            "url": "http://robotics.iiit.ac.in",
+            "startDate": "2005-04",
+            "summary": "Leading research in robotics and AI, with a focus on autonomous navigation, SLAM, and robotic vision."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Technology Kanpur",
+            "area": "Electrical Engineering",
+            "studyType": "Ph.D.",
+            "startDate": "1998-01-01",
+            "endDate": "2001-11-01"
+        },
+        {
+            "institution": "Birla Institute of Technology and Science, Pilani",
+            "area": "Electronics Engineering",
+            "studyType": "Masters",
+            "startDate": "1996-01-01",
+            "endDate": "1998-07-01"
+        },
+        {
+            "institution": "Birla Institute of Technology and Science, Pilani",
+            "area": "Electrical Engineering",
+            "studyType": "Bachelors",
+            "startDate": "1992-01-01",
+            "endDate": "1996-07-01"
+        }
+    ],
+    "fellowships": [
+        {
+            "name": "Indian National Academy of Engineering (INAE)",
+            "startDate": "2023"
+        },
+        {
+            "position": "French Government Post Doctoral Fellowship",
+            "name": "Robotics and AI Lab, LAAS-CNRS, Toulouse",
+            "startDate": "2002-01-15",
+            "endDate": "2003-01-15"
+        },
+        {
+            "position": "Qualcomm Innovation Fellowship",
+            "name": "Robotics and AI Lab, LAAS-CNRS, Toulouse",
+            "startDate": "2016",
+            "endDate": "2017"
+        },
+        {
+            "name": "Qualcomm Innovation Fellowship",
+            "startDate": "2017",
+            "endDate": "2018"
+        },
+        {
+            "name": "Qualcomm Innovation Fellowship - 2",
+            "startDate": "2020",
+            "endDate": "2021"
+        }
+    ],
+    "service": [
+        {
+            "name": "IEEE International Conference on Robotics and Automation (ICRA)",
+            "position": "Reviewer",
+            "url": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra"
+        },
+        {
+            "name": "International Conference on Intelligent Robots and Systems (IROS)",
+            "position": "Reviewer, Associate Editor",
+            "url": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros"
+        },
+        {
+            "name": "IEEE/CAS Jounral of Automatica Sinica",
+            "position": "Reviewer of Autonomous Robots",
+            "url": "https://www.ieee-jas.net/"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Best Paper Award, ICVGIP 2010",
+            "date": "2010",
+            "summary": "Paper on real-time motion segmentation and VSLAM."
+        },
+        {
+            "title": "Best Runner up Paper Award in ICVGIP 2014",
+            "date": "2014",
+            "summary": "Monocular Motion Segmentation of Rigid Bodies using In-frame Shear Constraints"
+        },
+        {
+            "title": "Qualcomm Innovation Fellowship Super Winner Award",
+            "date": "2021-2022"
+        },
+        {
+            "title": "Microsoft Young Researcher Award",
+            "date": "2008-2009",
+            "summary": "Awarded for innovative contributions to robotics and AI."
+        },
+        {
+            "title": "Qualcomm Super Winner Award",
+            "date": "2021-22"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Top 5 Robotics Research Center in Asia (CSRankings/AIRankings)",
+            "summary": "Single-handedly responsible for international visibility to Robotics Research. Directed research center ranked fifth in Asia in terms of research productivity. [CSRankings](http://csrankings.org/#/index?robotics&asia), [AIRankings](https://airankings.org/)"
+        },
+        {
+            "title": "Third place in the Open Cloud Table Organization Challenge at ICRA 2022",
+            "summary": "Team luminous secured third place in the challenge."
+        },
+        {
+            "title": "Second Place in ARTPARK Robotics Challenge",
+            "summary": "Team Cerebrus secured second place with its janitorial assistant robot prototype."
+        }
+    ],
+    "popular publications": [
+        {
+            "name": "Zur Elektrody/namik bewegter K\u00f6rper",
+            "publisher": "Annalen der Physik",
+            "releaseDate": "1905-06-30",
+            "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+            "summary": "It concerned an interpretation of the Michelson\u2013Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+        },
+        {
+            "name": "\u00dcber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+            "publisher": "Annalen der Physik",
+            "releaseDate": "1905-03-18",
+            "url": "https://de.wikisource.org/wiki/\u00dcber_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
+            "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+        },
+        {
+            "name": "Die Grundlage der allgemeinen Relativit\u00e4tstheorie",
+            "publisher": "Annalen der Physik",
+            "releaseDate": "1916-03-20",
+            "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativit\u00e4tstheorie",
+            "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909\u20131911) and Prague (1911\u20131912), before he returned to ETH Zurich (1912\u20131914)."
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Fluent",
+            "icon": ""
+        },
+        {
+            "language": "Tamil",
+            "fluency": "Native speaker",
+            "icon": ""
+        }
+    ],
+    "interests": [
+        {
+            "name": "Robotic Systems",
+            "icon": "fa-solid fa-robot",
+            "keywords": [
+                "Mobile Robotics",
+                "Multi-Robotic Systems"
+            ]
+        },
+        {
+            "name": "Perception & Sensing",
+            "icon": "fa-solid fa-eye",
+            "keywords": [
+                "Robotic Vision",
+                "Outdoor Navigation"
+            ]
+        },
+        {
+            "name": "Mechanical Design and Hardware",
+            "icon": "fa-solid fa-gears",
+            "keywords": [
+                "Mechanism Design"
+            ]
+        }
+    ]
+}
